@@ -1168,6 +1168,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/coral/proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth@1.0-impl-qti.so \
     vendor/google/coral/proprietary/vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so \
     vendor/google/coral/proprietary/vendor/lib/hw/android.hardware.keymaster@3.0-impl-qti.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.keymaster@3.0-impl-qti.so \
+    vendor/google/coral/proprietary/vendor/lib/android.hardware.keymaster@4.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.keymaster@4.1.so \
     vendor/google/coral/proprietary/vendor/lib/hw/audio.primary.msmnile.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.msmnile.so \
     vendor/google/coral/proprietary/vendor/lib/hw/hardware.google.bluetooth.sar@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/hardware.google.bluetooth.sar@1.0-impl.so \
     vendor/google/coral/proprietary/vendor/lib/hw/vendor.qti.hardware.qseecom@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.qti.hardware.qseecom@1.0-impl.so \
@@ -1527,6 +1528,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/coral/proprietary/vendor/lib64/android.hardware.confirmationui.secure_input_citadel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.confirmationui.secure_input_citadel.so \
     vendor/google/coral/proprietary/vendor/lib64/android.hardware.identity@1.0-impl.nos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.identity@1.0-impl.nos.so \
     vendor/google/coral/proprietary/vendor/lib64/android.hardware.keymaster@4.1-impl.nos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.keymaster@4.1-impl.nos.so \
+    vendor/google/coral/proprietary/vendor/lib64/android.hardware.keymaster@4.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.keymaster@4.1.so \
     vendor/google/coral/proprietary/vendor/lib64/android.hardware.oemlock@1.0-impl.nos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.oemlock@1.0-impl.nos.so \
     vendor/google/coral/proprietary/vendor/lib64/android.hardware.weaver@1.0-impl.nos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.weaver@1.0-impl.nos.so \
     vendor/google/coral/proprietary/vendor/lib64/btaudio_offload_if.so:$(TARGET_COPY_OUT_VENDOR)/lib64/btaudio_offload_if.so \
